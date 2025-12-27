@@ -19,7 +19,7 @@ if(a%2==0):
 else:
     print("ODD")
 ```
-Output
+## Output
 ![image](https://github.com/user-attachments/assets/e5040a25-ef1a-45d9-9084-08589fabb85d)
 
 ## Result
