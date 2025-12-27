@@ -25,9 +25,12 @@ print(f"b is {b}")
 print(f"c: {c}")
 print(f"d: {d}")
 ```
-
-
 ## Output
+<img width="905" height="247" alt="image" src="https://github.com/user-attachments/assets/1cb41c84-7a40-4d09-9f0e-98bd6bb1790f" />
+
+## Result
+Thus, to write a python program that evaluates and prints the results of boolean and arithmetic expressions involving True and False is compiled and the output is verified successfully.
+
 <img width="905" height="247" alt="image" src="https://github.com/user-attachments/assets/1cb41c84-7a40-4d09-9f0e-98bd6bb1790f" />
 
 ## Result
